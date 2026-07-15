@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+groq
+PyMuPDF
+opencv-python
+scikit-learn
+sentence-transformers
+torch
+sqlalchemy
+python-dotenv
+pillow
+pytesseract
+numpy
+nltk
+redis

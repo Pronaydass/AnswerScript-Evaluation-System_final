@@ -1,0 +1,39 @@
+# Environment variables
+.env
+.env.*
+backend-ai/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Databases
+*.db
+*.sqlite3
+
+# Cache
+cache/
+backend-ai/cache/
+
+# Uploaded files
+uploads/
+backend-ai/uploads/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build
+dist/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
