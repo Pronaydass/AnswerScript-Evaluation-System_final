@@ -9,9 +9,9 @@ sentence-transformers
 torch
 sqlalchemy
 python-dotenv
-pillow
+Pillow
 pytesseract
 numpy
 nltk
 redis
-easyocr
+easyocr==1.7.2
