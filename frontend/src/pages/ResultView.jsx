@@ -8,7 +8,7 @@ import {
 } from '@mui/material'
 import { ExpandMore, ArrowBack, CheckCircle, Cancel, Print, Delete, Done, Close, TrendingUp, Assessment, Download as DownloadIcon, FileDownload as FileDownloadIcon } from '@mui/icons-material'
 
-const API_URL = 'http://localhost:8000'
+const API_URL = 'https://answerscript-evaluation-system-final-5u91.onrender.com'
 
 export default function ResultView() {
   const { roll } = useParams()
