@@ -14,7 +14,7 @@ import {
 import PDFUploader from '../components/PDFUploader'
 import EvaluationProgress from '../components/EvaluationProgress'
 
-const API = 'http://localhost:8000'
+const API = 'https://answerscript-evaluation-system-final-5u91.onrender.com'
 
 export default function TeacherDashboard() {
   const [studentFile, setStudentFile] = useState(null)
