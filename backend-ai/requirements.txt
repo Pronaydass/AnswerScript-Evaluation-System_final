@@ -16,3 +16,4 @@ nltk
 redis
 easyocr
 openpyxl
+reportlab
